@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="sidebar">
-            <h1>Your Name</h1>
+            <h1>Yurii Mykhailevskyi</h1>
             <h3>QA Automation & Support Manager</h3>
             <hr>
             <p>Contact Info</p> 
