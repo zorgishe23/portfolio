@@ -90,10 +90,10 @@ I would be extremely happy to apply obtained knowledge to testing an operational
                         <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1Z021Y2qNr1uQBqCFzeJMmwY_s-THYKXy/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
                         <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1m4Eu08K2Wn7KW8nq5oKIVJ7xPeIgHRD8/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
                         <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1TKxetdAy1u5v6EbEGhANv31Q851P9mDA/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
-                        <h3>Soap UI</span></h3>
+                        <h3>Mindmaps and diagrams</span></h3>
                     <ul>
-                        <li>c•	Browser Developer Tools.</li>
-                     <div class="degree">
+                        <li>Functional decomposition of ATM. Check the <a href="https://drive.google.com/file/d/1l6SRlL5-nJhNspO73desKS_gR-iQBlm-/view?usp=share_link" target="_blank">mindmap.</li>
+                        <li>State-transition diagram of the Cash withdraw.</li>
                 </div>
             </section>
             <section class="book">
