@@ -84,10 +84,10 @@ I would be extremely happy to apply obtained knowledge to testing an operational
                 <h2>Examples of my work</h2>
                 <h3>TestRail </span></h3>
                     <ul>
-                        <li>Test case for checking the checkout process (in English). Check the <a href="[https://www.w3schools.com/](https://docs.google.com/spreadsheets/d/17Vr9veFno1jKhj8nHmim1Q6_sdQzBn9Sv7mxbDamzxU/edit?usp=sharing)" target="_blank">VGoogle Sheets document here</a>Google Sheets document here.</li>
-                        <h3>Jira</span></h3>
+                        <li>Test case for checking the checkout process (in English). Check the <a href="https://docs.google.com/spreadsheets/d/17Vr9veFno1jKhj8nHmim1Q6_sdQzBn9Sv7mxbDamzxU/edit?usp=sharing" target="_blank">Google Spreadsheet file.</li>
+                        <h3>Bug reports and work in Jira</span></h3>
                     <ul>
-                        <li>know how to create bug reports.</li>
+                        <li>Bug #1. Check the screenshot of the bug report in Jira.</li>
                         <li>able to create projects and track their progress.</li>
                         <h3>Soap UI</span></h3>
                     <ul>
