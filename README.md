@@ -13,13 +13,11 @@
             <p>QA Automation & Support Manager</p>
             <p>Email: youremail@email.com | Phone: +123 456 7890</p> 
         </header>
-
         <main>
             <section class="summary">
                 <h2>Professional Summary</h2>
                 <p>A brief paragraph highlighting your most relevant skills, experience, and goals in the QA Automation and Support fields.</p>
             </section>
-
             <section class="experience">
                 <h2>Work Experience</h2>
                 <div class="job">
@@ -30,14 +28,12 @@
                     </ul>
                 </div>
                 </section>
-
             <section class="education">
                 <h2>Education</h2>
                 <div class="degree">
                     <h3>Degree Name <span> | Institution Name | Dates</span></h3>
                 </div>
             </section>
-
             <section class="skills">
                 <h2>Skills</h2>
                 <ul>
