@@ -13,7 +13,7 @@
             <h1>Yurii Mykhailevskyi</h1>
             <h3>QA Automation & Support Manager</h3>
             <hr>
-            <p>About me/p>
+            <p>About me/<p>
             <p>Skills</p>
             </div>
         <div class="main-content">
