@@ -87,8 +87,9 @@ I would be extremely happy to apply obtained knowledge to testing an operational
                         <li>Test case for checking the checkout process (in English). Check the <a href="https://docs.google.com/spreadsheets/d/17Vr9veFno1jKhj8nHmim1Q6_sdQzBn9Sv7mxbDamzxU/edit?usp=sharing" target="_blank">Google Spreadsheet file.</li>
                         <h3>Bug reports and work in Jira</span></h3>
                     <ul>
-                        <li>Bug #1. Check the screenshot of the bug report in Jira.</li>
-                        <li>able to create projects and track their progress.</li>
+                        <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1Z021Y2qNr1uQBqCFzeJMmwY_s-THYKXy/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
+                        <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1m4Eu08K2Wn7KW8nq5oKIVJ7xPeIgHRD8/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
+                        <li>Bug #1. Check the <a href="https://drive.google.com/file/d/1TKxetdAy1u5v6EbEGhANv31Q851P9mDA/view?usp=share_link" target="_blank">the screenshot of the bug report in Jira.</li>
                         <h3>Soap UI</span></h3>
                     <ul>
                         <li>c•	Browser Developer Tools.</li>
