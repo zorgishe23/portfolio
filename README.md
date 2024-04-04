@@ -65,7 +65,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
                         <li>able to create projects and track their progress.</li>
                         <h3>Soap UI</span></h3>
                     <ul>
-                        <li>c•	Browser Developer Tools.</li>
+                        <li>Browser Developer Tools.</li>
                         <h3>VirtualBox</span></h3>
                     <ul>
                         <li>able to set up and operate virtual machines.</li>
